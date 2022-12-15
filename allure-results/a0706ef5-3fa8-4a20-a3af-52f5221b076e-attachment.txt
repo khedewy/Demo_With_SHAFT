@@ -1,0 +1,10 @@
+
+################################################################################################################################################
+Starting Execution:	"2 out of 4" test cases in the current suite
+Test Method:		"googleTest.AddToCompareListTest.addToCompareList"
+################################################################################################################################################
+[ReportManager] Click "Add to compare list". @15-12-2022 18:20:53.0964 PM
+[ReportManager] Click "product comparison". @15-12-2022 18:20:56.0777 PM
+[ReportManager] Get text "Apple MacBook Pro 13-inch" from "Apple MacBook Pro 13-inch". @15-12-2022 18:20:56.0903 PM
+[ReportManager] Assertion Passed: The Element located by "By.cssSelector: tr.product-name > td:nth-child(2) > a:nth-child(1)" text contains "Apple MacBook Pro 13-inch". @15-12-2022 18:21:20.0853 PM
+[ReportManager] Successfully created attachment "Screenshot - 1671121274223_addToCompareList_ValidateElementAttribute_passed" @15-12-2022 18:21:20.0897 PM

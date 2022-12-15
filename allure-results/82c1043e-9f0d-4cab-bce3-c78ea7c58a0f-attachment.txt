@@ -1,0 +1,12 @@
+
+################################################################################################################################################
+Starting Execution:	"3 out of 4" test cases in the current suite
+Test Method:		"googleTest.AddToCompareListTest.addToCompareListAgain"
+################################################################################################################################################
+[ReportManager] Type "sams" into "Search store". @15-12-2022 18:21:21.0423 PM
+[ReportManager] Click "By.id: ui-id-2". @15-12-2022 18:21:30.0110 PM
+[ReportManager] Click "Add to compare list". @15-12-2022 18:21:30.0488 PM
+[ReportManager] Click "product comparison". @15-12-2022 18:21:32.0383 PM
+[ReportManager] Get text "Samsung Series 9 NP900X4C Premium Ultrabook" from "Samsung Series 9 NP900X4C Premium Ultrabook". @15-12-2022 18:21:32.0456 PM
+[ReportManager] Assertion Passed: The Element located by "By.cssSelector: tr.product-name > td:nth-child(2) > a:nth-child(1)" text contains "Samsung Series 9 NP900X4C Premium Ultrabook". @15-12-2022 18:21:54.0616 PM
+[ReportManager] Successfully created attachment "Screenshot - 1671121307844_addToCompareListAgain_ValidateElementAttribute_passed" @15-12-2022 18:21:54.0669 PM

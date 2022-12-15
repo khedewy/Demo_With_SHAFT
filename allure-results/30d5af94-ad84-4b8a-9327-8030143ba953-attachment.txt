@@ -1,0 +1,7 @@
+
+################################################################################################################################################
+Starting Execution:	"1 out of 4" test cases in the current suite
+Test Method:		"googleTest.AddToCompareListTest.searchForProduct"
+################################################################################################################################################
+[ReportManager] Type "mac" into "Search store". @15-12-2022 18:20:48.0701 PM
+[ReportManager] Click "By.id: ui-id-2". @15-12-2022 18:20:53.0227 PM

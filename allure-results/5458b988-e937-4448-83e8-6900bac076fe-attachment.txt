@@ -1,0 +1,13 @@
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/downloadedFiles/"". @15-12-2022 18:20:38.0622 PM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/target/downloadedFiles/"". @15-12-2022 18:20:38.0624 PM
+[ReportManager] Attempting to run locally on: "Windows-64 | Google chrome". @15-12-2022 18:20:38.0739 PM
+[ReportManager] Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @15-12-2022 18:20:38.0745 PM
+[ReportManager] Successfully Opened Google chrome. @15-12-2022 18:20:45.0423 PM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "RegisterData.json"". @15-12-2022 18:20:45.0440 PM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/RegisterData.json"". @15-12-2022 18:20:45.0442 PM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/RegisterData.json"". @15-12-2022 18:20:45.0443 PM
+[ReportManager] Loaded Test Data: "src/test/resources/testDataFiles/RegisterData.json". @15-12-2022 18:20:45.0445 PM
+[ReportManager] Successfully created attachment "Test Data - JSON" @15-12-2022 18:20:45.0448 PM
+[ReportManager] Target URL: "https://demo.nopcommerce.com/" @15-12-2022 18:20:45.0455 PM
+[ReportManager] Initial URL: "data:," @15-12-2022 18:20:45.0516 PM
+[ReportManager] Navigate to url "https://demo.nopcommerce.com/". @15-12-2022 18:20:47.0912 PM
